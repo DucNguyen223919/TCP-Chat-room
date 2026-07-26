@@ -92,25 +92,29 @@ Run multiple clients in separate terminals to test the application.
 
 ## Screenshots
 
-### Network Architecture
+## Chat Demo
 
-*(Insert topology or architecture screenshot)*
+![Chat Demo](screenshots/chat-demo.png)
 
-### Server Console
+## Private Messaging
 
-*(Insert screenshot)*
+![Private Messaging](screenshots/private-message.png)
 
-### Client Chat
+## Room Management
 
-*(Insert screenshot)*
+![Room Management](screenshots/room-management.png)
 
-### Chat Rooms
+## Online Users
 
-*(Insert screenshot)*
+![Online Users](screenshots/online-user.png)
 
-### Administrator Commands
+## Administrator Commands
 
-*(Insert screenshot)*
+![Administrator Commands](screenshots/admin-moderator.png)
+
+## Ban List
+
+![Ban List](screenshots/banlist.png)
 
 ---
 
