@@ -28,13 +28,11 @@ A multi-client TCP chat application built with Python using Socket Programming a
 
 ## Technologies
 
-- Python 3
+- Python
 - Socket Programming
 - TCP/IP
 - Multithreading
-- JSON (Server Configuration)
 
----
 
 ## Project Structure
 
@@ -43,7 +41,6 @@ TCP-ChatRoom/
 │
 ├── server.py
 ├── client.py
-├── config.json
 ├── bans.txt
 └── README.md
 ```
