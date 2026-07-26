@@ -106,7 +106,7 @@ Run multiple clients in separate terminals to test the application.
 
 ## Online Users
 
-![Online Users](screenshots/online-user.png)
+![Online User](screenshots/online-user-list.png)
 
 ## Administrator Commands
 
